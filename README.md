@@ -5,13 +5,13 @@
 # Навигация 
 
 ## Report
-Отчет по проекту [Report](./Report/README.md)
+Отчет по проекту [report](./report/README.md)
 
 ## Data From KSP 
-В таблице собраны все полученные в ходе полета данные [DATA](./Data-from-KSP/README.md)
+В таблице собраны все полученные в ходе полета данные [DATA](./KSP_Data/README.md)
 
 ## PyGame-simulation 
-В папке находится код на языке Python, с помощью которого можно наглядно рассмотреть суть гравитационного маневра [Py](./PyGame-simulation/readme.md)
+В папке находится код на языке Python, с помощью которого можно наглядно рассмотреть суть гравитационного маневра [Py](./pygame_simulation/readme.md)
 
 ## Proton-M в KSP
 <https://spacedock.ru/index.php?do=download&id=5064>
