@@ -22,8 +22,8 @@
 [***For Linux***](http://ru.softoware.org/simulators/download-kerbal-space-program-71896-for-linux.html)
 
 ## AP-for-KSP
-Автопилот для ракетоносителя в KSP (написан на языке, предложенном дополнением KOS для KSP \
-Само [дополнение](https://github.com/KSP-KOS/KOS/releases)
+Автопилот для ракетоносителя в KSP (написан на языке, предложенном дополнением KOS для KSP) \
+[дополнение](https://github.com/KSP-KOS/KOS/releases)
 
 ## Реальный пример 
 21 ноября 2022 года. Корабль “Орион” совершил самый близкий облет луны (на расстоянии 130 км)
